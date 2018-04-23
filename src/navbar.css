@@ -1,14 +1,60 @@
 .navbar{
-    height: 4rem;
+    height: 10vw;
     width: 100vw;
-    background-color: slategrey;
+    background-color: black;
 
 }
 
 .nav{
+    margin-left: 0px;
+    margin-top: 0px;
     height: 100%;
+    width: auto;
+    margin: auto;
     list-style: none;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: navy;
 }
+
+.navitem{  
+    height: 4rem;
+    width: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid aqua;
+    align-self: center;
+    color: oldlace;
+    background-color: cadetblue;
+}
+
+.navitem a {
+    text-decoration: none;
+    color: oldlace;
+}
+
+.navfont{
+    font-size: 30px;
+}
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: #111;
+} */
