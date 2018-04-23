@@ -1,0 +1,13 @@
+.txt{
+    font-family: 'Roboto', sans-serif;
+
+}
+.contact-txt{
+    text-align: center;
+    font-size: 50px;
+}
+.li-txt{
+    list-style: none;
+    font-size: 30px;
+    text-align: center;
+}

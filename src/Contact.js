@@ -1,16 +1,17 @@
 import React, { Component } from 'react';
+import './contact.css'
 
 class Contact extends Component {
     render(){
         return(
-            <div>
+            <div className='txt'>
                 <header>
-                    <h1>Contact Infomation</h1>
+                    <h1 className='contact-txt'>Contact Information</h1>
                 </header>
-                <ul>
-                    <li>Name: Jefferson Griebel</li>
-                    <li>Email: jefferson.griebel@gmail.com</li>
-                    <li>Phone: 352-314-4762</li>
+                <ul className='li-txt'>
+                    <li>Jefferson Griebel</li>
+                    <li><a href="mailto:jefferson.griebel@gmail.com">jefferson.griebel@gmail.com</a></li>
+                    <li>352-314-4762</li>
                 </ul>
             </div>
         )
