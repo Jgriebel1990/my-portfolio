@@ -15,28 +15,33 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: navy;
+    background-color: rgb(33, 33, 37);
 }
 
 .navitem{  
+
     height: 4rem;
     width: 10rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid aqua;
+    border: 1px solid black;
+    border-radius: 1.5px;
     align-self: center;
-    color: oldlace;
-    background-color: cadetblue;
+    color: whitesmoke;
+    background-color: rgb(112, 53, 53);
+    font-family: 'Roboto', sans-serif;
 }
 
 .navitem a {
     text-decoration: none;
-    color: oldlace;
+    color: whitesmoke;
 }
 
 .navfont{
     font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Faster One', cursive;
 }
 /* ul {
     list-style-type: none;
