@@ -1,19 +1,23 @@
 
-.contact-txt{
+.pro-txt-h2{
     font-family: 'Hammersmith One', sans-serif;
     font-size: 100px;
     margin-top: auto;
     text-align: center;
+    margin-right: 2rem;
 }
-.li-txt{
+
+.pro-li-txt{
+    margin-right: 2rem;
     list-style: none;
     font-size: 30px;
     text-align: center;
     font-family: 'Hammersmith One', sans-serif;
-    margin-right: 2rem;
     padding: 2px;
+    text-decoration: none;
+    margin-bottom: 2rem;
 }
 
-.cont-li{
+.txt-li-style{
     margin-bottom: 2rem;
 }
