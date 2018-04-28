@@ -1,0 +1,7 @@
+.txt-box{
+    height: 525px;
+    width: 375px;
+    border: solid 3px black;
+    text-align: left;
+    background-color: rgb(173, 173, 173);
+}
