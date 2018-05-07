@@ -15,6 +15,12 @@ class Projects extends Component{
                         <li className='txt-li-style'>
                             <a href="https://jgriebel1990.github.io/number-guess/">The first app I ever made using Javascript</a>
                         </li>
+                        <li className='txt-li-style'> 
+                            <a href="https://jgriebel1990.github.io/litelite/"></a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/Jgriebel1990/reactNativeCounterOne">React Native counter</a>
+                        </li>
                     </ul>
             </div>
         )
