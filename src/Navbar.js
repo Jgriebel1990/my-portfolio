@@ -9,9 +9,6 @@ class Navbar extends Component{
                 <ul className='nav'>
                     <p className='navfont'>Portfolio</p>
                     <li className='navitem'>
-                        <Link to='/aboutme'>About Me</Link>
-                    </li>
-                    <li className='navitem'>
                         <Link to='/contact'>Contact Information</Link>
                     </li>
                     <li className='navitem'>
